@@ -5,6 +5,14 @@ We help homeowners get the best renovation loans by leveraging the *after-renova
 
 ---
 
+## Knowledge Focus
+- Transformers
+- Computer Vision
+- Unreal Engine
+- Algorithms
+
+---
+
 ## My Hobbies
 - 📷 Photography
 - 🎵 Music
