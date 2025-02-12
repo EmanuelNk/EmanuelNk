@@ -1,5 +1,24 @@
-## Hi there 👋
+# Hello, I'm Emanuel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
+I'm a founder at **[Housetable](https://www.housetable.com)** – we help homeowners get the best renovation loans by leveraging the *after-renovation* value of their houses through machine learning and computer vision.
+
+---
+
+## My Hobbies
+- 📷 Photography
+- 🎵 Music
+- ♟️ Chess
+- 🍴 Cooking
+
+*(You may find me working on some side projects related to these)*
+
+
+---
+
+## How to Reach Me
+- **Email**: [Emanuel@housetable.com](mailto:Emanuel@housetable.com)
+
+---
 <!--
 **EmanuelNk/EmanuelNk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
