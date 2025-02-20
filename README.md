@@ -1,6 +1,7 @@
 # HI there, I'm Emanuel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-I'm a founder at **[Housetable](https://www.housetable.com)** 
+Founder @ **[Housetable](https://www.housetable.com)**.
+
 We help homeowners get the best renovation loans by leveraging the *after-renovation* value of their houses through machine learning and computer vision.
 
 ---
